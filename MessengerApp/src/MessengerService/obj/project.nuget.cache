@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdjA4d7USdThnkXkJpR77vwausz2E9D0zuZIn5yfKVIycHIZWauSBDYvcz0FPfB1yUpfYutxWz1a8LQ9Dqo5Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\196384\\MyRepo\\MessengerApp\\src\\MessengerService\\MessengerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\196384\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\196384\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\196384\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\196384\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

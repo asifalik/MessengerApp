@@ -1,0 +1,15 @@
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\bin\Debug\net6.0\MessengerService.deps.json
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\bin\Debug\net6.0\MessengerService.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\bin\Debug\net6.0\MessengerService.pdb
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\bin\Debug\net6.0\MessengerDomain.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\bin\Debug\net6.0\MessengerDomain.pdb
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.csproj.AssemblyReference.cache
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.AssemblyInfoInputs.cache
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.AssemblyInfo.cs
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.csproj.CoreCompileInputs.cache
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.csproj.CopyComplete
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\refint\MessengerService.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\MessengerService.pdb
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerService\obj\Debug\net6.0\ref\MessengerService.dll

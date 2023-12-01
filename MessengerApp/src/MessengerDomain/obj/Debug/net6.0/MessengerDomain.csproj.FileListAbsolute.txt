@@ -1,0 +1,12 @@
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\bin\Debug\net6.0\MessengerDomain.deps.json
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\bin\Debug\net6.0\MessengerDomain.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\bin\Debug\net6.0\MessengerDomain.pdb
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.csproj.AssemblyReference.cache
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.AssemblyInfoInputs.cache
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.AssemblyInfo.cs
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.csproj.CoreCompileInputs.cache
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\refint\MessengerDomain.dll
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\MessengerDomain.pdb
+C:\Users\196384\Downloads\CodeTestAsifaliKannattil-main\MessengerApp\src\MessengerDomain\obj\Debug\net6.0\ref\MessengerDomain.dll

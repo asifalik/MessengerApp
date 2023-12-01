@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7BB38CD7-6931-46B4-A057-28752F1E8F52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{92E7E839-3BFA-427E-BB8A-FE53658DB9A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessengerApi", "src\MessengerApi\MessengerApi.csproj", "{03CABC7D-1B81-43AD-B651-BD5D392F34E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessengerService", "src\MessengerService\MessengerService.csproj", "{B7DC3AE7-D9DC-40F9-97C8-4DADA0EA30AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessengerDomain", "src\MessengerDomain\MessengerDomain.csproj", "{B4C8EC88-297F-4CD7-B933-CC2E2F658157}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessengerApiTest", "test\MessengerApiTest\MessengerApiTest.csproj", "{A84DCD73-7EEB-4B55-8916-D0EAC96CF830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CABC7D-1B81-43AD-B651-BD5D392F34E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CABC7D-1B81-43AD-B651-BD5D392F34E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CABC7D-1B81-43AD-B651-BD5D392F34E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CABC7D-1B81-43AD-B651-BD5D392F34E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DC3AE7-D9DC-40F9-97C8-4DADA0EA30AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DC3AE7-D9DC-40F9-97C8-4DADA0EA30AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DC3AE7-D9DC-40F9-97C8-4DADA0EA30AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DC3AE7-D9DC-40F9-97C8-4DADA0EA30AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C8EC88-297F-4CD7-B933-CC2E2F658157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C8EC88-297F-4CD7-B933-CC2E2F658157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C8EC88-297F-4CD7-B933-CC2E2F658157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C8EC88-297F-4CD7-B933-CC2E2F658157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84DCD73-7EEB-4B55-8916-D0EAC96CF830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84DCD73-7EEB-4B55-8916-D0EAC96CF830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84DCD73-7EEB-4B55-8916-D0EAC96CF830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84DCD73-7EEB-4B55-8916-D0EAC96CF830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03CABC7D-1B81-43AD-B651-BD5D392F34E3} = {7BB38CD7-6931-46B4-A057-28752F1E8F52}
+		{B7DC3AE7-D9DC-40F9-97C8-4DADA0EA30AD} = {7BB38CD7-6931-46B4-A057-28752F1E8F52}
+		{B4C8EC88-297F-4CD7-B933-CC2E2F658157} = {7BB38CD7-6931-46B4-A057-28752F1E8F52}
+		{A84DCD73-7EEB-4B55-8916-D0EAC96CF830} = {92E7E839-3BFA-427E-BB8A-FE53658DB9A5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {587C490B-8393-4024-A42C-F1F6F83EAC6E}
+	EndGlobalSection
+EndGlobal
